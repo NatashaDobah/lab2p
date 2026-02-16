@@ -12,3 +12,13 @@ p{
 .special{
     color:palevioletred;
 }
+
+.flexbox{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    margin:40px;
+    padding:40px;
+    justify-content: center;
+
+}
