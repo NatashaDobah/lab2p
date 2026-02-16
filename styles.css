@@ -1,0 +1,14 @@
+p{
+    color:blueviolet;
+    background-color: aliceblue;
+    font-size: small;
+    font-style: oblique;
+    border-width: 2px;
+    border-color: bisque;
+    border-style: dotted;
+    text-align:center;
+}
+
+.special{
+    color:palevioletred;
+}
